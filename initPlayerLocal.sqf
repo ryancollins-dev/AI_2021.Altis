@@ -1,4 +1,4 @@
-//Support Requester By 647ninja 2018
+//Support Requester By R 2018
 _this select 0 synchronizeObjectsAdd [SupportRequester];
 SupportRequester synchronizeObjectsAdd [_this select 0];
 BIS_supp_refresh = TRUE;

@@ -528,7 +528,7 @@ class AddonsMetaData
 randomSeed=3693748;
 class ScenarioData
 {
-	author="647ninja";
+	author="R";
 	disabledAI=1;
 	respawn=3;
 	class Header

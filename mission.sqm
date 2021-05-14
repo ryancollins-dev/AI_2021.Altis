@@ -88,7 +88,6 @@ addons[]=
 	"A3_Characters_F_Tank",
 	"A3_Static_F",
 	"A3_Structures_F_Civ_Camping",
-	"cba_xeh",
 	"A3_Structures_F_EPB_Civ_Accessories",
 	"A3_Structures_F_Civ_Accessories",
 	"A3_Structures_F_Items_Tools",
@@ -130,8 +129,7 @@ addons[]=
 	"A3_Structures_F_Enoch_Military_Camps",
 	"A3_Structures_F_Mil_Bunker",
 	"A3_Static_F_Sams_SAM_System_04",
-	"A3_Static_F_Sams_Radar_System_02",
-	"cba_modules"
+	"A3_Static_F_Sams_Radar_System_02"
 };
 class AddonsMetaData
 {
